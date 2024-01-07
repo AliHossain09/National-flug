@@ -1,0 +1,82 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+.main-continer{
+    height: 250px;
+    width: 400px;
+    background-color: darkgreen;
+    position: absolute;
+    left: 50%; 
+    top: 40%;
+    transform: translate(-50%, -40%);
+    border-bottom-right-radius: 30px;
+    
+    
+    
+    
+}
+.flug-cyrcle{
+    height: 80px;
+    width: 80px;
+    background-color: crimson;
+    position:relative;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    border-radius: 100%;
+}
+        
+.flag-stic{
+    height: 500px;
+    width: 40px;
+    background-color: black;
+    position: relative;
+    bottom: 40%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.footer{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    position:relative;
+    bottom: 40%;
+    transform: translate(-27%);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.footer2{
+    height: 70px;
+    width: 150px;
+    background-color: rgb(29, 190, 23);
+    position:relative;
+    bottom: 43%;
+    transform: translate(-33%);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+}
+
+.rop{
+    height: 0.7px;
+    width: 35px;
+    background-color: white;
+    position: relative;
+    bottom: 280%;
+    border-style:dotted;
+    
+    
+}
+.rop2{
+    height: 0.7px;
+    width: 35px;
+    background-color:white;
+    position: relative;
+    bottom: 186%; 
+    border-style:dotted;
+}
+.youtube{
+    position: relative;
+    left: 50%;
+}
